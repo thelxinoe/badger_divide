@@ -146,3 +146,11 @@ footer a:hover {
 textarea {
     resize: none;
 }
+@font-face {
+    font-family: "quarz974";
+    src: url("fonts/Quarz974Light.woff") format('woff');
+}
+.quarz {
+  font-family: quarz974;
+  font-size: 300%;
+}
